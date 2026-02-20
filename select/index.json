@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "うみなおし",
+  "base_artist": "MARETU",
+  "createdAt": "2026-02-20T17:50:39.428975Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "うみなおし",
+      "artist": "Maretu",
+      "has_synced": true,
+      "path": "select/01_うみなおし_Maretu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "うみなおし",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_うみなおし_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "うみなおし - Uminaoshi",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/03_うみなおし_-_Uminaoshi_MARETU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "うみなおし",
+      "artist": "MARETU feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/04_うみなおし_MARETU_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "うみなおし",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/05_うみなおし_MARETU.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rebirth - うみなおし",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/06_Rebirth_-_うみなおし_MARETU.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "【Ado】うみなおし 歌いました",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/07_【Ado】うみなおし_歌いました_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "うみなおし",
+      "artist": "MARETU",
+      "has_synced": false,
+      "path": "select/pl_01_うみなおし_MARETU.txt"
+    }
+  ]
+}
